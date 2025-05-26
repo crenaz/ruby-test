@@ -18,6 +18,7 @@ services:
       - db
     environment:
       DATABASE_URL: postgres://postgres:password@db:5432/rails_app_development
+      RAILS_ENV: development
 volumes:
   postgres_data:
   bundle_cache: 
