@@ -1,0 +1,18 @@
+current directory: /home/crenaz/projects/ONLINE/GITHUB/ruby-test/gems/racc-1.8.1/ext/racc/cparse
+/home/crenaz/.rbenv/versions/3.2.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/crenaz/projects/ONLINE/GITHUB/ruby-test/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260103-10421-17vvxg sitelibdir\=./.gem.20260103-10421-17vvxg clean
+
+current directory: /home/crenaz/projects/ONLINE/GITHUB/ruby-test/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260103-10421-17vvxg sitelibdir\=./.gem.20260103-10421-17vvxg
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/crenaz/projects/ONLINE/GITHUB/ruby-test/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260103-10421-17vvxg sitelibdir\=./.gem.20260103-10421-17vvxg install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20260103-10421-17vvxg/racc
+
+current directory: /home/crenaz/projects/ONLINE/GITHUB/ruby-test/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260103-10421-17vvxg sitelibdir\=./.gem.20260103-10421-17vvxg clean

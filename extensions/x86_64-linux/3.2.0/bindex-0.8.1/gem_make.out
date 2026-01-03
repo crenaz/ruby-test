@@ -1,0 +1,18 @@
+current directory: /home/crenaz/projects/ONLINE/GITHUB/ruby-test/gems/bindex-0.8.1/ext/skiptrace
+/home/crenaz/.rbenv/versions/3.2.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/crenaz/projects/ONLINE/GITHUB/ruby-test/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20260103-10421-vi5b26 sitelibdir\=./.gem.20260103-10421-vi5b26 clean
+
+current directory: /home/crenaz/projects/ONLINE/GITHUB/ruby-test/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20260103-10421-vi5b26 sitelibdir\=./.gem.20260103-10421-vi5b26
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /home/crenaz/projects/ONLINE/GITHUB/ruby-test/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20260103-10421-vi5b26 sitelibdir\=./.gem.20260103-10421-vi5b26 install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20260103-10421-vi5b26/skiptrace/internal
+
+current directory: /home/crenaz/projects/ONLINE/GITHUB/ruby-test/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20260103-10421-vi5b26 sitelibdir\=./.gem.20260103-10421-vi5b26 clean

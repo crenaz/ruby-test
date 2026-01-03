@@ -1,0 +1,23 @@
+current directory: /home/crenaz/projects/ONLINE/GITHUB/ruby-test/gems/bootsnap-1.20.1/ext/bootsnap
+/home/crenaz/.rbenv/versions/3.2.2/bin/ruby extconf.rb
+checking for fdatasync() in unistd.h... yes
+checking for fstatat() in sys/stat.h... yes
+checking for whether -D_GNU_SOURCE is accepted as CPPFLAGS... yes
+checking for whether -O3 is accepted as CFLAGS... yes
+checking for whether -std=c99 is accepted as CFLAGS... yes
+creating Makefile
+
+current directory: /home/crenaz/projects/ONLINE/GITHUB/ruby-test/gems/bootsnap-1.20.1/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20260103-10421-yqw3uc sitelibdir\=./.gem.20260103-10421-yqw3uc clean
+
+current directory: /home/crenaz/projects/ONLINE/GITHUB/ruby-test/gems/bootsnap-1.20.1/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20260103-10421-yqw3uc sitelibdir\=./.gem.20260103-10421-yqw3uc
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.so
+
+current directory: /home/crenaz/projects/ONLINE/GITHUB/ruby-test/gems/bootsnap-1.20.1/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20260103-10421-yqw3uc sitelibdir\=./.gem.20260103-10421-yqw3uc install
+/usr/bin/install -c -m 0755 bootsnap.so ./.gem.20260103-10421-yqw3uc/bootsnap
+
+current directory: /home/crenaz/projects/ONLINE/GITHUB/ruby-test/gems/bootsnap-1.20.1/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20260103-10421-yqw3uc sitelibdir\=./.gem.20260103-10421-yqw3uc clean

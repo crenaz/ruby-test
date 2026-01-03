@@ -1,0 +1,19 @@
+current directory: /home/crenaz/projects/ONLINE/GITHUB/ruby-test/gems/debug-1.11.1/ext/debug
+/home/crenaz/.rbenv/versions/3.2.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/crenaz/projects/ONLINE/GITHUB/ruby-test/gems/debug-1.11.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20260103-10421-ljnd93 sitelibdir\=./.gem.20260103-10421-ljnd93 clean
+
+current directory: /home/crenaz/projects/ONLINE/GITHUB/ruby-test/gems/debug-1.11.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20260103-10421-ljnd93 sitelibdir\=./.gem.20260103-10421-ljnd93
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/crenaz/projects/ONLINE/GITHUB/ruby-test/gems/debug-1.11.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20260103-10421-ljnd93 sitelibdir\=./.gem.20260103-10421-ljnd93 install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20260103-10421-ljnd93/debug
+
+current directory: /home/crenaz/projects/ONLINE/GITHUB/ruby-test/gems/debug-1.11.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20260103-10421-ljnd93 sitelibdir\=./.gem.20260103-10421-ljnd93 clean
